@@ -1,0 +1,219 @@
+{
+  "header": {
+    "logo": {
+      "alt": "Logo"
+    },
+    "menu": {
+      "home": "Startseite",
+      "keyFeatures": "Hauptmerkmale",
+      "whyChooseUs": "Warum uns wählen?",
+      "faq": "FAQ",
+      "contactUs": "Kontaktieren Sie uns"
+    },
+    "mobileMenu": {
+      "open": "menü",
+      "close": "menü schließen"
+    }
+  },
+  "hero": {
+    "title": "Ihre All-in-One",
+    "highlightedText": "Immobilienverwaltung",
+    "description": "LeaseGrid ist hier, um den Prozess zu optimieren und Ihr Immobilienverwaltungserlebnis mühelos, effizient und organisiert zu gestalten.",
+    "buttonText": "Loslegen"
+  },
+  "keyFeatures": {
+    "title": "Hauptmerkmale von LeaseGrid",
+    "description": "Lorem ipsum dolor sit amet consectetur. Eget maecenas bibendum nisi arcu vitae cum cras aenean. Risus diam lectus platea elit lectus quisque.",
+    "features": [
+      {
+        "title": "Miet- & Mietermanagement",
+        "description": "Verwalten Sie einfach Ihre Mietverträge, verfolgen Sie Mieterdaten und behalten Sie die Verlängerungen im Auge. Automatisieren Sie Miet-Erinnerungen, senden Sie Mitteilungen und optimieren Sie die Kommunikation, um eine nahtlose Beziehung zu Ihren Mietern zu gewährleisten.",
+        "icon": "/assets/icons/feature-1.png"
+      },
+      {
+        "title": "Wartungsverfolgung",
+        "description": "Halten Sie Ihre Immobilien in bestem Zustand mit unserem intuitiven Wartungsmanagement-Tool. Verfolgen Sie Anfragen, weisen Sie Aufgaben an Anbieter zu und überwachen Sie den Fortschritt – alles von einem einzigen Dashboard aus.",
+        "icon": "/assets/icons/feature-2.png"
+      },
+      {
+        "title": "Buchhaltung & Finanzberichterstattung",
+        "description": "Kein Bedarf an komplexen Tabellen. Unser integriertes Buchhaltungssystem ermöglicht es Ihnen, Zahlungen zu verwalten, Einnahmen und Ausgaben zu verfolgen und detaillierte Finanzberichte mit Leichtigkeit zu erstellen. Organisiert und konform bleiben, ob für Steuern oder Audits.",
+        "icon": "/assets/icons/feature-3.png"
+      },
+      {
+        "title": "Online-Mietzahlungen",
+        "description": "Erleichtern Sie die Mietsammlung sowohl für Sie als auch für Ihre Mieter. Mit unseren sicheren Online-Zahlungsoptionen können Mieter Miete, Kautionen und Gebühren elektronisch zahlen, während Sie sofortige Benachrichtigungen erhalten und den Zahlungsstatus in Echtzeit verfolgen.",
+        "icon": "/assets/icons/feature-4.png"
+      },
+      {
+        "title": "Dokumentenmanagement",
+        "description": "Speichern Sie alle wichtigen Dokumente zu Immobilien und Mietern an einem Ort. Egal, ob es sich um Mietverträge, Inspektionsberichte oder Wartungsunterlagen handelt, greifen Sie jederzeit und von überall auf alles zu, was Sie benötigen.",
+        "icon": "/assets/icons/feature-5.png"
+      },
+      {
+        "title": "Anpassbare Berichte & Analysen",
+        "description": "Gewinnen Sie wertvolle Einblicke in Ihre Immobilienmanagement-Leistung mit anpassbaren Berichten und Echtzeitdatenanalysen. Treffen Sie fundierte Entscheidungen, um Ihre Rentabilität und Effizienz zu maximieren.",
+        "icon": "/assets/icons/feature-6.png"
+      },
+      {
+        "title": "Automatisierte Workflows",
+        "description": "Reduzieren Sie den manuellen Aufwand, indem Sie Routineaufgaben wie Miet-Erinnerungen, Mieterkommunikation und Mietverlängerungen automatisieren. Lassen Sie LeaseGrid die sich wiederholenden Aufgaben erledigen, damit Sie sich auf das Wachstum Ihres Unternehmens konzentrieren können.",
+        "icon": "/assets/icons/feature-7.png"
+      },
+      {
+        "title": "Verwaltung mehrerer Immobilien & Portfolios",
+        "description": "Verwalten Sie mehrere Immobilien? Kein Problem. Mit LeaseGrid können Sie verschiedene Immobilien oder Portfolios von einem einzigen Dashboard aus verwalten, sodass Sie einen Überblick über alle Ihre Vorgänge erhalten.",
+        "icon": "/assets/icons/feature-8.png"
+      },
+      {
+        "title": "Mobile-freundliche Benutzeroberfläche",
+        "description": "Bleiben Sie verbunden und verwalten Sie Ihre Immobilien unterwegs. Unsere mobile-freundliche Plattform ermöglicht es Ihnen, kritische Aufgaben direkt von Ihrem Smartphone oder Tablet aus zu erledigen, sodass Sie immer die Kontrolle haben, egal wo Sie sich befinden.",
+        "icon": "/assets/icons/feature-9.png"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "description": "Lorem ipsum dolor sit amet consectetur. Eget maecenas bibendum nisi arcu vitae cum cras aenean. Risus diam lectus platea elit lectus quisque.",
+    "list": [
+      {
+        "name": "Ronald Richards",
+        "location": "Vereinigte Staaten",
+        "image": "/assets/profile-1.png",
+        "text": "Lorem Ipsum ist einfach ein Dummy-Text der Druck- und Satzindustrie. Lorem Ipsum ist seit den 1500er Jahren der Standard-Dummy-Text der Branche, als ein unbekannter.",
+        "rating": 5
+      },
+      {
+        "name": "Annette Black",
+        "location": "Vereinigte Staaten",
+        "image": "/assets/profile-2.png",
+        "text": "Lorem Ipsum ist einfach ein Dummy-Text der Druck- und Satzindustrie. Lorem Ipsum ist seit den 1500er Jahren der Standard-Dummy-Text der Branche, als ein unbekannter.",
+        "rating": 5
+      },
+      {
+        "name": "Esther Howard",
+        "location": "Vereinigte Staaten",
+        "image": "/assets/profile-3.png",
+        "text": "Lorem Ipsum ist einfach ein Dummy-Text der Druck- und Satzindustrie. Lorem Ipsum ist seit den 1500er Jahren der Standard-Dummy-Text der Branche, als ein unbekannter.",
+        "rating": 5
+      }
+    ]
+  },
+  "choosePlan": {
+    "title": "Wählen Sie Ihren Plan",
+    "description": "Lorem ipsum dolor sit amet consectetur. Eget maecenas bibendum nisi arcu vitae cum cras aenean. Risus diam lectus platea elit lectus quisque.",
+    "tiers": [
+      {
+        "title": "Starter",
+        "price": "14,90€",
+        "features": [
+          "Lorem ipsum dolor sit amet consectetur. Sit congue tincidunt.",
+          "Feature label goes here.",
+          "et consectetur. Sit congue tincidunt.",
+          "Feature label goes here."
+        ],
+        "ctaText": "Kostenlose Testversion starten"
+      },
+      {
+        "title": "Pro",
+        "price": "29,90€",
+        "features": [
+          "Lorem ipsum dolor sit amet consectetur. Sit congue tincidunt.",
+          "Feature label goes here.",
+          "et consectetur. Sit congue tincidunt.",
+          "Feature label goes here."
+        ],
+        "ctaText": "Jetzt starten"
+      },
+      {
+        "title": "Enterprise",
+        "price": "49,90€",
+        "features": [
+          "Lorem ipsum dolor sit amet consectetur. Sit congue tincidunt.",
+          "Feature label goes here.",
+          "et consectetur. Sit congue tincidunt.",
+          "Feature label goes here."
+        ],
+        "ctaText": "Vertrieb kontaktieren"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Warum LeaseGrid wählen",
+    "description": "LeaseGrid ist die einzige Immobilienverwaltungssoftware, die Sie jemals benötigen werden. Unsere Plattform ist darauf ausgelegt, jeden Aspekt Ihres Unternehmens zu vereinfachen.",
+    "reasons": [
+      {
+        "imgSrc": "/assets/icons/why-choose-1.png",
+        "imgAlt": "Uhr-Icon",
+        "title": "Zeit sparen",
+        "description": "Lorem ipsum dolor sit amet consectetur. Dictumst facilisis quis malesuada sed. Nisi nisi aenean suspendisse sagittis."
+      },
+      {
+        "imgSrc": "/assets/icons/why-choose-2.png",
+        "imgAlt": "Münzen-Icon",
+        "title": "Kosten senken",
+        "description": "Lorem ipsum dolor sit amet consectetur. Dictumst facilisis quis malesuada sed. Nisi nisi aenean suspendisse sagittis."
+      },
+      {
+        "imgSrc": "/assets/icons/why-choose-3.png",
+        "imgAlt": "Stern-Icon",
+        "title": "Mieterzufriedenheit",
+        "description": "Lorem ipsum dolor sit amet consectetur. Dictumst facilisis quis malesuada sed. Nisi nisi aenean suspendisse sagittis."
+      },
+      {
+        "imgSrc": "/assets/icons/why-choose-4.png",
+        "imgAlt": "Mobile Häkchen-Icon",
+        "title": "Benutzerfreundliche Oberfläche",
+        "description": "Lorem ipsum dolor sit amet consectetur. Dictumst facilisis quis malesuada sed. Nisi nisi aenean suspendisse sagittis."
+      },
+      {
+        "imgSrc": "/assets/icons/why-choose-5.png",
+        "imgAlt": "Headset-Icon",
+        "title": "Weltklasse-Support",
+        "description": "Lorem ipsum dolor sit amet consectetur. Dictumst facilisis quis malesuada sed. Nisi nisi aenean suspendisse sagittis."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "description": "Lorem ipsum dolor sit amet consectetur. Eget maecenas bibendum nisi arcu vitae cum cras aenean. Risus diam lectus platea elit lectus quisque.",
+    "questions": [
+      {
+        "question": "Was ist LeaseGrid?",
+        "answer": "LeaseGrid ist eine umfassende Software zur Immobilienverwaltung, die darauf ausgelegt ist, die Verwaltung von Wohn- und Gewerbeimmobilien zu optimieren und zu vereinfachen. Sie bietet eine Vielzahl von Funktionen, darunter Miet- und Mietermanagement, Buchhaltung, Online-Mietzahlungen, Wartungsverfolgung und mehr – alles in einer benutzerfreundlichen Plattform."
+      },
+      {
+        "question": "Wer kann LeaseGrid nutzen?",
+        "answer": "LeaseGrid ist eine umfassende Software zur Immobilienverwaltung, die darauf ausgelegt ist, die Verwaltung von Wohn- und Gewerbeimmobilien zu optimieren und zu vereinfachen. Sie bietet eine Vielzahl von Funktionen, darunter Miet- und Mietermanagement, Buchhaltung, Online-Mietzahlungen, Wartungsverfolgung und mehr – alles in einer benutzerfreundlichen Plattform."
+      },
+      {
+        "question": "Kann ich LeaseGrid verwenden, um mehrere Immobilien zu verwalten?",
+        "answer": "LeaseGrid ist eine umfassende Software zur Immobilienverwaltung, die darauf ausgelegt ist, die Verwaltung von Wohn- und Gewerbeimmobilien zu optimieren und zu vereinfachen. Sie bietet eine Vielzahl von Funktionen, darunter Miet- und Mietermanagement, Buchhaltung, Online-Mietzahlungen, Wartungsverfolgung und mehr – alles in einer benutzerfreundlichen Plattform."
+      }
+    ]
+  },
+  "footer": {
+    "description": "LeaseGrid ist eine umfassende Software für das Immobilienmanagement, die entwickelt wurde, um die Verwaltung von Wohn- und Gewerbeimmobilien zu rationalisieren und zu vereinfachen.",
+    "content": {
+      "title": "INHALT",
+      "home": "Startseite",
+      "keyFeatures": "Hauptmerkmale",
+      "whyChooseUs": "Warum uns wählen?",
+      "faq": "FAQ",
+      "contactUs": "Kontaktieren Sie uns"
+    },
+    "company": {
+      "title": "UNTERNEHMEN",
+      "privacyPolicy": "Datenschutz-Bestimmungen",
+      "termsConditions": "Allgemeine Geschäftsbedingungen",
+      "cookiesSettings": "Cookie-Einstellungen"
+    },
+    "contact": {
+      "title": "KONTAKT",
+      "location": "London W3 9NW, Vereinigtes Königreich",
+      "phone": "0208 993 4500",
+      "email": "info@leasegrid.io"
+    },
+    "footerText": "© 2024. Alle Rechte vorbehalten."
+  }
+}

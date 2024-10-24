@@ -1,0 +1,219 @@
+{
+  "header": {
+    "logo": {
+      "alt": "Logo"
+    },
+    "menu": {
+      "home": "Home",
+      "keyFeatures": "Key Features",
+      "whyChooseUs": "Why Choose Us?",
+      "faq": "FAQ",
+      "contactUs": "Contact Us"
+    },
+    "mobileMenu": {
+      "open": "menu",
+      "close": "close menu"
+    }
+  },
+  "hero": {
+    "title": "Your All-in-One",
+    "highlightedText": "Property Management",
+    "description": "LeaseGrid is here to streamline the process and make your property management experience effortless, efficient, and organized.",
+    "buttonText": "Get Started"
+  },
+  "keyFeatures": {
+    "title": "Key Features of LeaseGrid",
+    "description": "Lorem ipsum dolor sit amet consectetur. Eget maecenas bibendum nisi arcu vitae cum cras aenean. Risus diam lectus platea elit lectus quisque.",
+    "features": [
+      {
+        "title": "Lease & Tenant Management",
+        "description": "Easily manage your leases, track tenant information, and stay on top of lease renewals. Automate rent reminders, send notices, and streamline communication to ensure a seamless relationship with your tenants.",
+        "icon": "/assets/icons/feature-1.png"
+      },
+      {
+        "title": "Maintenance Tracking",
+        "description": "Keep your properties in top condition with our intuitive maintenance management tool. Track requests, assign tasks to vendors, and monitor progress—all from a single dashboard.",
+        "icon": "/assets/icons/feature-2.png"
+      },
+      {
+        "title": "Accounting & Financial Reporting",
+        "description": "No need for complex spreadsheets. Our integrated accounting system lets you manage payments, track income and expenses, and generate detailed financial reports with ease. Stay organized and compliant, whether it's for taxes or audits.",
+        "icon": "/assets/icons/feature-3.png"
+      },
+      {
+        "title": "Online Rent Payments",
+        "description": "Make rent collection easier for both you and your tenants. With our secure online payment options, tenants can pay rent, deposits, and fees electronically, while you receive instant notifications and track payment statuses in real time.",
+        "icon": "/assets/icons/feature-4.png"
+      },
+      {
+        "title": "Document Management",
+        "description": "Store all of your important property and tenant documents in one place. Whether it's leases, inspection reports, or maintenance records, access everything you need anytime, from anywhere.",
+        "icon": "/assets/icons/feature-5.png"
+      },
+      {
+        "title": "Customizable Reports & Analytics",
+        "description": "Gain valuable insights into your property management performance with customizable reports and real-time data analytics. Make informed decisions to maximize your profitability and efficiency.",
+        "icon": "/assets/icons/feature-6.png"
+      },
+      {
+        "title": "Automated Workflows",
+        "description": "Reduce manual effort by automating routine tasks such as rent reminders, tenant communications, and lease renewals. Let LeaseGrid handle the repetitive tasks, so you can focus on growing your business.",
+        "icon": "/assets/icons/feature-7.png"
+      },
+      {
+        "title": "Multi-Property & Portfolio Management",
+        "description": "Managing multiple properties? No problem. With LeaseGrid, you can handle various properties or portfolios from a single dashboard, giving you a bird’s eye view of all your operations.",
+        "icon": "/assets/icons/feature-8.png"
+      },
+      {
+        "title": "Mobile-Friendly Interface",
+        "description": "Stay connected and manage your properties on the go. Our mobile-friendly platform allows you to handle critical tasks right from your smartphone or tablet, ensuring you’re always in control, no matter where you are.",
+        "icon": "/assets/icons/feature-9.png"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "description": "Lorem ipsum dolor sit amet consectetur. Eget maecenas bibendum nisi arcu vitae cum cras aenean. Risus diam lectus platea elit lectus quisque.",
+    "list": [
+      {
+        "name": "Ronald Richards",
+        "location": "United States",
+        "image": "/assets/profile-1.png",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown.",
+        "rating": 5
+      },
+      {
+        "name": "Annette Black",
+        "location": "United States",
+        "image": "/assets/profile-2.png",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown.",
+        "rating": 5
+      },
+      {
+        "name": "Esther Howard",
+        "location": "United States",
+        "image": "/assets/profile-3.png",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown.",
+        "rating": 5
+      }
+    ]
+  },
+  "choosePlan": {
+    "title": "Choose Your Plan",
+    "description": "Lorem ipsum dolor sit amet consectetur. Eget maecenas bibendum nisi arcu vitae cum cras aenean. Risus diam lectus platea elit lectus quisque.",
+    "tiers": [
+      {
+        "title": "Starter",
+        "price": "14.90$",
+        "features": [
+          "Lorem ipsum dolor sit amet consectetur. Sit congue tincidunt.",
+          "Feature label goes here.",
+          "et consectetur. Sit congue tincidunt.",
+          "Feature label goes here."
+        ],
+        "ctaText": "Start Free Trial"
+      },
+      {
+        "title": "Pro",
+        "price": "29.90$",
+        "features": [
+          "Lorem ipsum dolor sit amet consectetur. Sit congue tincidunt.",
+          "Feature label goes here.",
+          "et consectetur. Sit congue tincidunt.",
+          "Feature label goes here."
+        ],
+        "ctaText": "Get Started"
+      },
+      {
+        "title": "Enterprise",
+        "price": "49.90$",
+        "features": [
+          "Lorem ipsum dolor sit amet consectetur. Sit congue tincidunt.",
+          "Feature label goes here.",
+          "et consectetur. Sit congue tincidunt.",
+          "Feature label goes here."
+        ],
+        "ctaText": "Contact Sales"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose LeaseGrid",
+    "description": "LeaseGrid is the only property management solution you'll ever need. Our platform is designed to simplify every aspect of your business.",
+    "reasons": [
+      {
+        "imgSrc": "/assets/icons/why-choose-1.png",
+        "imgAlt": "Clock icon",
+        "title": "Save Time",
+        "description": "Lorem ipsum dolor sit amet consectetur. Dictumst facilisis quis malesuada sed. Nisi nisi aenean suspendisse sagittis."
+      },
+      {
+        "imgSrc": "/assets/icons/why-choose-2.png",
+        "imgAlt": "Coins icon",
+        "title": "Reduce Costs",
+        "description": "Lorem ipsum dolor sit amet consectetur. Dictumst facilisis quis malesuada sed. Nisi nisi aenean suspendisse sagittis."
+      },
+      {
+        "imgSrc": "/assets/icons/why-choose-3.png",
+        "imgAlt": "Star icon",
+        "title": "Tenant Satisfaction",
+        "description": "Lorem ipsum dolor sit amet consectetur. Dictumst facilisis quis malesuada sed. Nisi nisi aenean suspendisse sagittis."
+      },
+      {
+        "imgSrc": "/assets/icons/why-choose-4.png",
+        "imgAlt": "Mobile checkmark icon",
+        "title": "User Friendly Interface",
+        "description": "Lorem ipsum dolor sit amet consectetur. Dictumst facilisis quis malesuada sed. Nisi nisi aenean suspendisse sagittis."
+      },
+      {
+        "imgSrc": "/assets/icons/why-choose-5.png",
+        "imgAlt": "Headset icon",
+        "title": "World-Class Support",
+        "description": "Lorem ipsum dolor sit amet consectetur. Dictumst facilisis quis malesuada sed. Nisi nisi aenean suspendisse sagittis."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Question",
+    "description": "Lorem ipsum dolor sit amet consectetur. Eget maecenas bibendum nisi arcu vitae cum cras aenean. Risus diam lectus platea elit lectus quisque.",
+    "questions": [
+      {
+        "question": "What is LeaseGrid?",
+        "answer": "LeaseGrid is a comprehensive property management software designed to streamline and simplify the management of residential and commercial properties. It offers a range of features, including lease and tenant management, accounting, online rent payments, maintenance tracking, and more—all in one easy-to-use platform."
+      },
+      {
+        "question": "Who can use LeaseGrid?",
+        "answer": "LeaseGrid is a comprehensive property management software designed to streamline and simplify the management of residential and commercial properties. It offers a range of features, including lease and tenant management, accounting, online rent payments, maintenance tracking, and more—all in one easy-to-use platform."
+      },
+      {
+        "question": "Can I use LeaseGrid to manage multiple properties?",
+        "answer": "LeaseGrid is a comprehensive property management software designed to streamline and simplify the management of residential and commercial properties. It offers a range of features, including lease and tenant management, accounting, online rent payments, maintenance tracking, and more—all in one easy-to-use platform."
+      }
+    ]
+  },
+  "footer": {
+    "description": "LeaseGrid is a comprehensive property management software designed to streamline and simplify the management of residential and commercial properties.",
+    "content": {
+      "title": "CONTENT",
+      "home": "Home",
+      "keyFeatures": "Key Features",
+      "whyChooseUs": "Why Choose Us?",
+      "faq": "FAQ",
+      "contactUs": "Contact Us"
+    },
+    "company": {
+      "title": "COMPANY",
+      "privacyPolicy": "Privacy Policy",
+      "termsConditions": "Terms & Conditions",
+      "cookiesSettings": "Cookies Settings"
+    },
+    "contact": {
+      "title": "CONTACT",
+      "location": "London W3 9NW, United Kingdom",
+      "phone": "0208 993 4500",
+      "email": "info@leasegrid.io"
+    },
+    "footerText": "© 2024. All rights reserved."
+  }
+}
